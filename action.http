@@ -1,0 +1,8 @@
+GET http://localhost:7000/api/users/new
+### objeto user
+
+GET http://localhost:7000/api/empresa/new
+###objeto empresa
+
+GET http://localhost:7000/api/users/empresa/new
+###objeto users-empresa
